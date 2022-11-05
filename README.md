@@ -1,9 +1,9 @@
 # Machine-Learning
-Thisis where my projects for :
+This is where my projects for :
 
-  1)Classification
+  1) Classification 
   2) clustering
-  3) Linear regression
-  4) Random forest
-  5)  Deeplearning(PyTorch) and ANN
-  6)   KNN 
+  4) Linear regression
+  5) Random forest
+  6) Deeplearning(PyTorch) and ANN
+  7) K-nearest neighbor 
